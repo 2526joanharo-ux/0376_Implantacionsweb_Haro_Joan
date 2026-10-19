@@ -1,3 +1,8 @@
+<?php
+setcookie("moneda","");
+setcookie("idioma","");
+setcookie("majoredat","");
+?>
 <html>
        <header>
         <meta charset="UTF-8">
